@@ -32,7 +32,7 @@ Selected key features such as lead_time, stays_in_weekend_nights, deposit_type, 
 📊 Model & Performance
 Model Used: Logistic Regression
 
-Accuracy Achieved: 77%
+Accuracy Achieved: 81%
 
 Next Steps:
 
